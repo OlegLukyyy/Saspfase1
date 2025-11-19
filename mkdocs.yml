@@ -1,0 +1,22 @@
+site_name: Sostenibilidad en Tecnología
+theme:
+  name: "material"
+  palette:
+    primary: "indigo"
+    accent: "light green"
+  features:
+    - search.highlight
+    - search.share
+    - toc.integrate
+nav:
+  - Inicio: "index.md"
+  - Sostenibilidad:
+      - Introducción: "sostenibilidad.md"
+      - Acciones Sostenibles: "acciones_sostenibles.md"
+  - ODS:
+      - ODS 7: "ods07-energia.md"
+  - Reflexión Personal: "reflexion.md"
+
+search:
+  lang: es
+  max_search_results: 10
