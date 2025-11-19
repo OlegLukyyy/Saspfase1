@@ -12,6 +12,3 @@ Aquí encontrarás información sobre los **aspectos ASG**, el papel de la tecno
 - [Reflexión personal](reflexion.md)
 
 ---
-
-📸 Todas las imágenes utilizadas se encuentran en la carpeta [`/assets`](assets/).  
-El contenido es original y redactado con base en fuentes fiables de Naciones Unidas y empresas del sector tecnológico.

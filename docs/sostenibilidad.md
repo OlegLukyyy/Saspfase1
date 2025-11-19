@@ -32,9 +32,9 @@ Trata de fomentar un crecimiento económico responsable que genere empleo y riqu
 
 ## Tres ODS que relaciono con informática
 
-|     Nº | ODS                                      | Por qué lo relaciono con informática                                                                                              |
-| -----: | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
-|  **9** | Industria, innovación e infraestructuras | La informática impulsa la innovación y permite infraestructuras digitales más eficientes (hardware, redes, automatización).       |
+| Nº     | ODS                                      | Relación con informática                                                                                                          |
+| ------ | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
+| **9**  | Industria, innovación e infraestructuras | La informática impulsa la innovación y permite infraestructuras digitales más eficientes (hardware, redes, automatización).       |
 | **12** | Producción y consumo responsables        | En informática se puede reducir el desperdicio comprando mejor, alargando la vida útil de los equipos y reciclando correctamente. |
 | **13** | Acción por el clima                      | Las herramientas digitales (IA, sensores, análisis de datos) ayudan a medir emisiones y optimizar el consumo energético.          |
 
