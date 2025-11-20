@@ -2,8 +2,8 @@ site_name: Sostenibilidad en Tecnología
 theme:
   name: "material"
   palette:
-    primary: "indigo"
-    accent: "light green"
+    primary: "pink"
+    accent: "pink"
   features:
     - search.highlight
     - search.share
