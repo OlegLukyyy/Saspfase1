@@ -57,6 +57,5 @@ No obstante, si no se gestionan correctamente, el consumo energético de los dis
 
 ## Otros ODS relacionados
 
-- **ODS 9 (Industria, innovación e infraestructura):** fomenta la innovación sostenible, necesaria para crear tecnologías limpias.
-- **ODS 12 (Producción y consumo responsables):** promueve el uso eficiente de recursos en el desarrollo tecnológico.
-- **ODS 13 (Acción por el clima):** está directamente vinculado, ya que la energía limpia es clave para frenar el cambio climático.
+- [ODS 9](https://srojgam0907.github.io/SASP_Fase1_Web/reflexiones/): Industria, Innovación e Infraestructuras.
+- [ODS 16](http://apermar1301.github.io/SASP_Fase1_Web/): Paz, Justicia e Instituciones Sólidas.
